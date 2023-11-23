@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T02:32:49.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yGOOOSiY24Fg_1Y57rWc" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T02:33:59.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DC24TOP51AxIgFdGDFk5" version="22.1.3" type="github">
   <diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
-    <mxGraphModel dx="1000" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -120,49 +120,49 @@
         <mxCell id="70Vzdxj_yjqLpNO413G3-17" value="ε,&amp;nbsp;X0 / ZX0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="150" y="700" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-1" value="&lt;font size=&quot;3&quot;&gt;MULAI&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-1" value="&lt;font size=&quot;3&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1900" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="1930" as="sourcePoint" />
             <mxPoint x="1030" y="1929.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-4" value="Membaca HTML dengan HTML &lt;i&gt;reader&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-4" value="Membaca HTML dengan HTML &lt;i&gt;reader&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="1929.73" as="sourcePoint" />
             <mxPoint x="1180" y="1930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-8" value="Menerima hasil HTML &lt;i&gt;reader&lt;/i&gt;&amp;nbsp;berupa list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-8" value="Menerima hasil HTML &lt;i&gt;reader&lt;/i&gt;&amp;nbsp;berupa list" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="1929.73" as="sourcePoint" />
             <mxPoint x="1360" y="1930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1420" y="1959.46" as="sourcePoint" />
             <mxPoint x="1420.0000000000002" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PkmqmBrPlPIb_5jSCAoP-14" target="PkmqmBrPlPIb_5jSCAoP-16">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PkmqmBrPlPIb_5jSCAoP-14" target="PkmqmBrPlPIb_5jSCAoP-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PkmqmBrPlPIb_5jSCAoP-14" target="PkmqmBrPlPIb_5jSCAoP-18">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PkmqmBrPlPIb_5jSCAoP-14" target="PkmqmBrPlPIb_5jSCAoP-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mengecek elemen list yang merupakan input PDA&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mengecek elemen list yang merupakan input PDA&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1355" y="2000" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PkmqmBrPlPIb_5jSCAoP-16">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PkmqmBrPlPIb_5jSCAoP-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1420" y="2120" as="targetPoint" />
             <Array as="points">
@@ -171,10 +171,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-16" value="Output(&quot;Accepted&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-16" value="Output(&quot;Accepted&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PkmqmBrPlPIb_5jSCAoP-18">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PkmqmBrPlPIb_5jSCAoP-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1420" y="2119.9999999999995" as="targetPoint" />
             <Array as="points">
@@ -183,16 +183,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-18" value="Output(&quot;Syntax Error&quot;)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-18" value="Output(&quot;Syntax Error&quot;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-21" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;true&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-21" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;true&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1290" y="2040" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-22" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;false&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-22" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;false&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1500" y="2040" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PkmqmBrPlPIb_5jSCAoP-27" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkmqmBrPlPIb_5jSCAoP-27" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1382.5" y="2120" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
